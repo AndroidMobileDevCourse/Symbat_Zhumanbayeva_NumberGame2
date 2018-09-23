@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NumberGame</string>
+    <string name="button_play">Play</string>
+    <string name="tv_lf">0</string>
+    <string name="tv_rg">0</string>
+    <string name="tv_score_num">0</string>
+    <string name="tv_mark">\?</string>
+    <string name="button_less">LESS</string>
+    <string name="button_equal">EQUAL</string>
+    <string name="button_bigger">BIGGER</string>
+    <string name="tv_score">Score</string>
+</resources>
